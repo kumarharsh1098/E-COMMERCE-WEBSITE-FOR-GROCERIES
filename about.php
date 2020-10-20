@@ -37,6 +37,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	});
 </script>
 <!-- start-smoth-scrolling -->
+	<!-- start-smoth-scrolling -->
 <link href="css/font-awesome.css" rel="stylesheet"> 
 <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
